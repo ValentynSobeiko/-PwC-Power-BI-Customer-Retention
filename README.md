@@ -12,7 +12,7 @@ Dataset: [Customer Churn Retention](https://github.com/ValentynSobeiko/-PwC-Powe
 ## Data Visualization (Dashboard):
 | Customer Churn |
 | ----------- |
-![image](https://github.com/user-attachments/assets/f2c8413c-b9b2-4fba-abe7-0a1b812c0cae)
+![image](https://github.com/user-attachments/assets/7a3f27fb-4bdc-4f50-93a3-e5004502dcf9)
 
 | Risk Dashboard |
 | ----------- |
